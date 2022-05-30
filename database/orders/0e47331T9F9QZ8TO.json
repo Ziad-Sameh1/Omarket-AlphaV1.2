@@ -1,0 +1,25 @@
+{
+	"customer_id" : "9erE7p16bz35wA03",
+	"date" : "172",
+	"id" : "0e47331T9F9QZ8TO",
+	"is_activated" : "false",
+	"products" : 
+	[
+		{
+			"average_rate" : "4.000000",
+			"category" : "Electronics",
+			"description" : "desc le product tany",
+			"id" : "g9Sw41mrFIMm5617",
+			"image_path" : "",
+			"is_activated" : "true",
+			"name" : "product tany",
+			"num_of_rates" : "4",
+			"points" : "25",
+			"price" : "800.000000",
+			"quantity" : "1",
+			"seller_id" : "mz9kI227E7663jbf",
+			"total_rate" : "16.000000"
+		}
+	],
+	"total_price" : "2050.000000"
+}
